@@ -1,0 +1,5 @@
+.idea
+.cache
+.local
+.ash_history
+.pytest_cache
